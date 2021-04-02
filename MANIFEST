@@ -1,0 +1,12 @@
+Changes
+LICENSE
+Makefile.PL
+MANIFEST
+README
+lib/Bundle/ExCore.pm
+lib/Bundle/ExCore/Perl5012.pm
+lib/Bundle/ExCore/Perl5018.pm
+lib/Bundle/ExCore/Perl5020.pm
+lib/Bundle/ExCore/Perl5030.pm
+lib/Bundle/ExCore/Perl5032.pm
+t/00_load.t
